@@ -8,7 +8,7 @@
 - Violation of format requirements (see below)
 3. Format specification:
 - For a new archive, create a new directory at the appropriate path, and the name should be short and reflect the content.
-- Then, create a REAMD.md file in this directory, detailing this directory and its contThen you can store the data！
+- Then, create a README.md file in this directory, detailing this directory and its contThen you can store the data！
 [i] The file parser must be placed in the /j directory under the root directory of the warehouse with {Applicable file extension}.cpp/.c/.cs/.py (For example: flac.py, png.c, tar.gz.cs,However, it and its dependencies must be free code. If there are dependencies that need to be installed separately, add a comment at the beginning of the code "-----Dependency installation -----"
 column,Fill in the command for installing dependencies in the column.)Whoever uses a new format for the first time uploads it. If someone has uploaded it before, there is no need to upload it again.
 3.1 Violation of formatting rules:
