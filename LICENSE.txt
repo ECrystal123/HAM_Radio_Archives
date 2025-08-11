@@ -1,0 +1,27 @@
+         HRA license v1.0
+    HAM Radio Archives license
+This agreement is a dedicated agreement, 
+specifically used for 
+https://github.com/tongshuen/HAM_Radio_Archives 
+The license for this warehouse(or other warehouses
+with similar/identical purposes)
+1. What you can do:
+  Copy, distribute, modify, or perform any other 
+operation on the files in this warehouse.
+2. You cannot do:
+  Any act that violates the law
+  Violation of format requirements (see below)
+3. Format specification:
+  For a new archive, create a new directory at the
+appropriate path, and the name should be short and
+reflect the content.
+  Then, create a REAMD.md file in this directory, 
+detailing this directory and its contThen you can 
+store the data! Just in this directory or a deeper 
+subdirectory (follow the above specification)
+3.1 If you violate the format specification, please 
+correct it immediately, otherwise, the warehouse 
+owner has the right to delete this non-standard 
+file or directory.
+童顺 
+20250811
