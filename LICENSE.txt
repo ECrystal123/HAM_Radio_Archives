@@ -1,4 +1,4 @@
-       HRA license v1.0
+HRA license v1.0
    HAM Radio Archives license
 [i] This agreement is a dedicated agreement, specifically used for https://github.com/tongshuen/HAM_Radio_Archives The license for this warehouse(or other warehouses with similar/identical purposes)
 1. What you can do:
@@ -8,6 +8,10 @@
 - Violation of format requirements (see below)
 3. Format specification:
 - For a new archive, create a new directory at the appropriate path, and the name should be short and reflect the content.
-- Then, create a REAMD.md file in this directory, detailing this directory and its contThen you can store the data! Ju[i] We suggest using lossless compression formats, such as .flac, .png. If it's a raw format like .wav, .bmp, etc., don't compress it, or if the video is hard to compress, please package it as .tar.gz, but this is just a suggestion. If it's .mp3,[i] We suggest using lossless compression formats, such as .flac, .png. If it's a raw format like .wav, .bmp, etc., don't compress it, or if the video is hard to compress, please package it as .tar.gz, but this is just a suggestion. If it's .mp3,. jpeg, etc., do not need to be converted to .flac and .png
-童顺(tongshuen)
+- Then, create a REAMD.md file in this directory, detailing this directory and its contThen you can store the data！
+3.1 Violation of formatting rules:
+- Please correct it, otherwise, the repository owner has the right to delete this directory or file.
+[i] We recommend lossless compression formats (such as .flac, .png), and original formats (such as .wav, .bmp) need to be lossless compressed; If the video is difficult to compress without loss, it is recommended to pack it as .tar.gz, and files that have already been compressed (such as .mp3, .jpeg) do not need to be converted to .flac or .png
+
+童顺(English name: Tong shun)
 20250811
