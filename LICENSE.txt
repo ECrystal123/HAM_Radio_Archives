@@ -8,7 +8,6 @@
 - Violation of format requirements (see below)
 3. Format specification:
 - For a new archive, create a new directory at the appropriate path, and the name should be short and reflect the content.
-- Then, create a REAMD.md file in this directory, detailing this directory and its contThen you can store the data! Just in this directory or a deeper subdirectory (follow the above specification)
-3.1 If you violate the format specification, please correct it immediately, otherwise, the warehouse owner has the right to delete this non-standard file or directory.
+- Then, create a REAMD.md file in this directory, detailing this directory and its contThen you can store the data! Ju[i] We suggest using lossless compression formats, such as .flac, .png. If it's a raw format like .wav, .bmp, etc., don't compress it, or if the video is hard to compress, please package it as .tar.gz, but this is just a suggestion. If it's .mp3,[i] We suggest using lossless compression formats, such as .flac, .png. If it's a raw format like .wav, .bmp, etc., don't compress it, or if the video is hard to compress, please package it as .tar.gz, but this is just a suggestion. If it's .mp3,. jpeg, etc., do not need to be converted to .flac and .png
 童顺(tongshuen)
 20250811
