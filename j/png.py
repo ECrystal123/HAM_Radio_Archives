@@ -1,6 +1,6 @@
------Dependency installation -----
-|pip install pillow              |
-----------------------------------
+#-----Dependency installation -----
+#|pip install pillow              |
+#----------------------------------
 import tkinter as tk
 from tkinter import filedialog
 from PIL import Image, ImageTk
