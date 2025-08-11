@@ -8,7 +8,7 @@
 - Violation of format requirements (see below)
 3. Format specification:
 - For a new archive, create a new directory at the appropriate path, and the name should be short and reflect the content.
-- Then, create a REAMD.md file in this directory, detailing this directory and its contThen you can store the data！
+- Then, create a README.md file in this directory, detailing this directory and its contThen you can store the data！
 3.1 Violation of formatting rules:
 - Please correct it, otherwise, the repository owner has the right to delete this directory or file.
 [i] We recommend lossless compression formats (such as .flac, .png), and original formats (such as .wav, .bmp) need to be lossless compressed; If the video is difficult to compress without loss, it is recommended to pack it as .tar.gz, and files that have already been compressed (such as .mp3, .jpeg) do not need to be converted to .flac or .png
