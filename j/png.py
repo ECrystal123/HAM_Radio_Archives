@@ -8,7 +8,7 @@ from PIL import Image, ImageTk
 class PNGViewer:
     def __init__(self, root):
         self.root = root
-        self.root.title("PNG 查看器 (Pillow版)")
+        self.root.title("PNG 查看器 ©2025 HRC")
         
         # 创建菜单
         menubar = tk.Menu(root)
